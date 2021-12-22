@@ -108,7 +108,7 @@
   }
 
   #navbar.navbar--dark{
-    opacity: 0.5;
+    opacity: 0.8;
     background-color: var(--color-light-grey);
     padding: 8px;
   }

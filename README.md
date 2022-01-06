@@ -1,2 +1,7 @@
 # portfolio
-> 포트폴리오
+> Home <br/>
+> About <br/>
+> Skills <br/>
+> Work <br/>
+> Testimonials <br/>
+> Contact
